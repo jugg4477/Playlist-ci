@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RTI1.png" group-title="COTE D'IVOIRE",RTI 1
+https://rt1-live.akamaized.net/hls/live/2033993/RTI1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RTI2.png" group-title="COTE D'IVOIRE",RTI 2
+https://rt2-live.akamaized.net/hls/live/2033994/RTI2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LA3.png" group-title="COTE D'IVOIRE",La 3
+https://la3-live.akamaized.net/hls/live/2033995/LA3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NCI.png" group-title="COTE D'IVOIRE",NCI
+https://nci-live.cdn.vitrinemedia.fr/nci/smil:nci.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIFETV.png" group-title="COTE D'IVOIRE",Life TV
+https://lifetv-live.akamaized.net/hls/live/2033996/LIFETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/APIVOIRE.png" group-title="COTE D'IVOIRE",A+ Ivoire
+https://a-plus-ivoire.akamaized.net/hls/live/2033997/APIVOIRE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRACEIVOIRE.png" group-title="COTE D'IVOIRE",Trace Ivoire
+https://trace-ivoire.akamaized.net/hls/live/2033998/TRACEIVOIRE/index.m3u8
