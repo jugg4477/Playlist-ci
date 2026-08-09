@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="RTI 1" group-title="CIV",RTI 1
+https://www.youtube.com/@rtiofficiel/live
+#EXTINF:-1 tvg-name="NCI" group-title="CIV",NCI
+https://www.facebook.com/ncitele.ci/videos/live/
+#EXTINF:-1 tvg-name="Life TV" group-title="CIV",Life TV
+https://www.youtube.com/@LifeTVCI/live
+#EXTINF:-1 tvg-name="A+ Ivoire" group-title="CIV",A+ Ivoire
+https://www.youtube.com/@aplusivoire/live
