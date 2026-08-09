@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TF1" group-title="FRANCE",TF1
+https://www.youtube.com/@TF1/live
+#EXTINF:-1 tvg-name="France 2" group-title="FRANCE",France 2
+https://www.youtube.com/@france2/live
+#EXTINF:-1 tvg-name="France 3" group-title="FRANCE",France 3
+https://www.youtube.com/@france3/live
+#EXTINF:-1 tvg-name="Canal+" group-title="FRANCE",Canal+
+https://www.youtube.com/@canalplus/live
+#EXTINF:-1 tvg-name="M6" group-title="FRANCE",M6
+https://www.youtube.com/@M6Officiel/live
+#EXTINF:-1 tvg-name="BFM TV" group-title="NEWS FR",BFM TV
+https://www.youtube.com/@BFMTV/live
+#EXTINF:-1 tvg-name="CNews" group-title="NEWS FR",CNews
+https://www.youtube.com/@CNEWS/live
+#EXTINF:-1 tvg-name="LCI" group-title="NEWS FR",LCI
+https://www.youtube.com/@LCI/live
+#EXTINF:-1 tvg-name="France 24" group-title="NEWS FR",France 24
+https://www.youtube.com/@france24/live
+#EXTINF:-1 tvg-name="RMC Story" group-title="FRANCE",RMC Story
+https://www.youtube.com/@RMCStoryOfficiel/live
